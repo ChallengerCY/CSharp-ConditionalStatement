@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpConditionalStatement\CSharpConditionalStatement\bin\Debug\CSharpConditionalStatement.exe.config
+c:\visual studio 2013\Projects\CSharpConditionalStatement\CSharpConditionalStatement\bin\Debug\CSharpConditionalStatement.exe
+c:\visual studio 2013\Projects\CSharpConditionalStatement\CSharpConditionalStatement\bin\Debug\CSharpConditionalStatement.pdb
+c:\visual studio 2013\Projects\CSharpConditionalStatement\CSharpConditionalStatement\obj\Debug\CSharpConditionalStatement.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpConditionalStatement\CSharpConditionalStatement\obj\Debug\CSharpConditionalStatement.exe
+c:\visual studio 2013\Projects\CSharpConditionalStatement\CSharpConditionalStatement\obj\Debug\CSharpConditionalStatement.pdb
